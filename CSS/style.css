@@ -1,0 +1,8 @@
+a:hover{
+    color: rgb(253, 109, 84) !important;
+}
+
+.btn{
+    background-color: tomato;
+    font-weight: bold;
+}
